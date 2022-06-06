@@ -14,3 +14,11 @@ Not:Patika.dev Algoritma eğitimi kapsamında hazırlamış olduğum ödevim.
 Dizi sıralandıktan sonra 18 sayısı ortada olduğu için Average case kapsamına girer.
 
 [Patika.dev profilim](https://app.patika.dev/alierden)
+
+
+# [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+Birinci adım: [2,3,5,8,7,9,4,15,6]
+İkninci adım: [2,3,4,8,7,9,5,15,6]
+Üçüncü adım:  [2,3,4,5,7,9,8,15,6]
+Dördüncü adım:[2,3,4,5,6,9,8,15,7]
